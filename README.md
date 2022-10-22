@@ -11,13 +11,16 @@
 
 
 # MY HOME PAGE 
-<img width="960" alt="SNAP 1" src="https://user-images.githubusercontent.com/113180060/190977391-d9dcf255-4737-4e19-ab14-7e9aedab6fa7.png">
+<img width="920" alt="s1" src="https://user-images.githubusercontent.com/113180060/197357866-258fdb76-51a2-4903-a685-ae4a86509f04.png">
+
 
 # MY ABOUT PAGE
-<img width="960" alt="SNAP2" src="https://user-images.githubusercontent.com/113180060/190977477-3f94cae4-5f50-4ba4-864f-7f9ec06c5f04.png">
+<img width="953" alt="s2" src="https://user-images.githubusercontent.com/113180060/197357883-9daef6e9-ab1f-476c-9f06-26af590ed999.png">
+
 
 # MY SERVICE PAGE
-<img width="960" alt="SNAP4" src="https://user-images.githubusercontent.com/113180060/190977539-720fcfac-f861-4f8a-88b1-a719336de9b6.png">
+<img width="957" alt="s3" src="https://user-images.githubusercontent.com/113180060/197357893-5eb5a2d5-5d29-4da0-a58e-508787b8ced8.png">
+
 
 # MY CONTACT PAGE
-<img width="960" alt="SNAP5" src="https://user-images.githubusercontent.com/113180060/190977594-d0471f55-b9b4-4e41-b3f7-0d48ab22deb6.png">
+<img width="956" alt="s4" src="https://user-images.githubusercontent.com/113180060/197357901-c30abdbe-c1ed-4df8-8729-82f7165d72af.png">
