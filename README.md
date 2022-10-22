@@ -5,11 +5,6 @@
 #using azure as a platform
 <img width="960" alt="azure" src="https://user-images.githubusercontent.com/113180060/197355607-a514249e-bb97-43b1-8aa5-bf20dc2fe10d.png">
 
-
-<img width="960" alt="azure2" src="https://user-images.githubusercontent.com/113180060/197355640-46160dbb-7fdb-407e-bd11-da08047c20d4.png">
-
-
-
 # MY HOME PAGE 
 <img width="920" alt="s1" src="https://user-images.githubusercontent.com/113180060/197357866-258fdb76-51a2-4903-a685-ae4a86509f04.png">
 
